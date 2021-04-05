@@ -1,0 +1,16 @@
+TENDENCIAS EN EL DISEÑO WEB
+	*movil first(PANTALLA)
+	*Retina display( hacer todo al doble para tener mejor
+	nitidez)Ejemplo--> imagen de 60x30, exportarla al 120x60
+ELEMENTOS QUE COMPONEN UNA PÁGINA WEB
+Hay 3 perfiles
+*Frontend (parte del frente): Todo lo que tenga interaccion directa con el usuasio html (Modelado de información, no es un lenguaje de programación, es lenguaje de modelado de información), javascript(lenguaje de programación) css, aplicar fdiseño gráfico y estilo a Html, librería jquery)
+	*Backend: php .net, java, ruby, node.js
+*Bases de datos: (MySQL, POSTGRES/SQL SERVER/ ORACLE)RELACIONALES (MONGODB/REDIS/COUCHDB)NO RELACIONAL
+SISTEMA DE CONTROL DE VERSIONES
+GIT
+GITHUB: Red social de programadores
+Crea un repositoria de código (GITHUB) (llamado Master)
+	Clon Local
+	Commit – sync
+GITHUB es una base de datos atómica de código (sólo guarda los últimos cambios), contiene un historial de cada archivo, múltiples personas trabajan sonbre el mismo archivo
